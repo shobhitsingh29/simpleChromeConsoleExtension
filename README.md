@@ -1,2 +1,2 @@
 
-![mini console](https://github.com/[shobhitsingh29]/[simpleChromeConsoleExtension]/blob/[master]/a.png?raw=true)
+![mini console](https://github.com/shobhitsingh29/simpleChromeConsoleExtension/blob/master/a.png?raw=true)
